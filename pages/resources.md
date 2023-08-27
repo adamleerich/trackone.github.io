@@ -1,6 +1,7 @@
 ---
-layout: category
 title: Learning Resources
+permalink: "/resources"
+layout: category
 category: resources
-permalink: /resources
 ---
+

@@ -4,4 +4,4 @@ permalink: "/about"
 layout: page
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+TrackOne is a cover band in Central Connecticut.  We play 90s hits and classics from other decades.  Hit us up on Instagram or Facebook!

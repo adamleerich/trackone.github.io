@@ -1,19 +1,21 @@
-# Site Build Settings
-
-# jekyll-paginate configuration
-paginate:            5
-
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           /:title
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "TrackOne Band"
-description:	       "Rock covers in Central CT"
-author:              "guys@trackone.band"
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+---
+title: TrackOne Band
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+paginate: 5
+markdown: kramdown
+highlighter: rouge
+permalink: "/:title"
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+description: Rock covers in Central CT
+author: guys@trackone.band

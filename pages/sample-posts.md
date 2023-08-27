@@ -1,6 +1,7 @@
 ---
-layout: category
 title: Sample Posts
+permalink: "/sample-posts"
+layout: category
 category: sample
-permalink: /sample-posts
 ---
+

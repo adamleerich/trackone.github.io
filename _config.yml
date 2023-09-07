@@ -1,21 +1,57 @@
----
-title: TrackOne Band
-timezone: UTC
+site: Journal Jekyll Theme
+
+url: 
+baseurl: 
+
 collections:
+  pages:
+    output: true
+    permalink: /:name
   posts:
-    title: Posts
     output: true
-  uploads:
-    title: Uploads
+    permalink: /blog/:slug
+  projects:
     output: true
-paginate: 5
+    permalink: /project/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
 markdown: kramdown
-highlighter: rouge
-permalink: "/:title"
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
 plugins:
-- jekyll-paginate
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-description: Rock covers in Central CT
-author: guys@trackone.band
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/blog/page:num/"
+  

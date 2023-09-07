@@ -1,34 +1,163 @@
-# Change 'comments' to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: ''
+basic_settings:
+  site_title: 'TrackOne!'
+  site_tagline: 'A stunning rock & roll cover band in Central CT'
+  favicon_image: /images/favicon.ico
 
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+header_settings:
+  # logo_image: /images/drum-head-200.png
+  logo_image:
+  logo_width: 200
+  overlay_opacity: 0.7
 
-menu:
-- {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
-# - {name: 'Interesting Facts',  url: 'facts'}
-# - {name: 'Learning Resources', url: 'resources'}
-# - {name: 'Sample Posts',       url: 'sample-posts'}
-# - {name: 'Documentation',      url: 'documentation'}
+menu_settings:
+  menu_items:
+    - title: 'Latest'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'About'
+      url: '/about'
+    - title: 'Contact'
+      url: '/contact'
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-- {icon: 'facebook', link:   'https://www.facebook.com/trackone.band.ct'}
-- {icon: 'instagram', link:  'https://instagram.com/trackone.band'}
-- {icon: 'envelope', link:   'mailto:guys@trackone.band'}
-- {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
+grid_settings:
+  grid_spacing: 10
 
-# Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+contact_settings:
+  form_action: ''
+  confirmation_url: '/thanks'
+  email_subject: 'Contact form submission'
+  send_button_text: 'Send Message'
 
-sharing_button_prompt: 'Feel free to share!'
+social_settings:
+  facebook_url: 'https://www.facebook.com/trackone.band.ct'
+  twitter_url: ''
+  instagram_url: 'https://www.instagram.com/trackone.band'
+  snapchat_url: ''
+  youtube_url: ''
+  google-plus_url: ''
+  vimeo_url: ''
+  pinterest_url: ''
+  medium_url: ''
+  quora_url: ''
+  amazon_url: ''
+  apple_url: ''
+  android_url: ''
+  tumblr_url: ''
+  dribbble_url: ''
+  behance_url: ''
+  deviantart_url: ''
+  github_url: ''
+  reddit_url: ''
+  flickr_url: ''
+  etsy_url: ''
+  kickstarter_url: ''
+  soundcloud_url: ''
+  spotify_url: ''
+  bandcamp_url: ''
+  linkedin_url: ''
 
-related_posts: 'You may also enjoy...'
+color_settings:
+  background_color: '#ffffff'
+  background_alt_color: '#F5F7FA'
+  text_dark_color: '#2A2F36'
+  text_medium_color: '#6C7A89'
+  text_light_color: '#ABB7B7'
+  accent_color: '#A2DED0'
+  border_color: '#dddddd'
+  overlay_background_color: '#161B21'
+  overlay_text_color: '#ffffff'
+  error_color: '#D64541'
 
-post_date_prefix: 'Written on'
+font_settings:
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'
+  title_font: '"Merriweather", sans-serif'
+  body_font: '"Muli", sans-serif'
+  regular_weight: 400
+  bold_weight: 600
+  site_title:
+    small_size: 25
+    medium_size: 30
+    large_size: 35
+    weight: 400
+    letter_spacing: 0
+  site_tagline:
+    small_size: 16
+    medium_size: 17
+    large_size: 18
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.5
+  menu:
+    small_size: 30
+    medium_size: 17
+    large_size: 18
+    weight: 400
+    letter_spacing: 0
+  h1:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.2
+  h2:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.2
+  h3:
+    small_size: 22
+    medium_size: 25
+    large_size: 30
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.3
+  h4:
+    small_size: 17
+    medium_size: 22
+    large_size: 22
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  h5:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  h6:
+    small_size: 17
+    medium_size: 20
+    large_size: 20
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  p:
+    small_size: 16
+    medium_size: 18
+    large_size: 20
+    weight: 400
+    letter_spacing: 0
+    line_height: 1.6
+  blockquote:
+    small_size: 25
+    medium_size: 35
+    large_size: 45
+    weight: 400
+    letter_spacing: -0.02
+    line_height: 1.6
+  buttons:
+    weight: 600
+    letter_spacing: 0
+
+advanced_settings:
+  ajax_loading: true
+  analytics_code: ""
+  custom_styles: ""
+  header_js: ""
+  footer_js: ""
+

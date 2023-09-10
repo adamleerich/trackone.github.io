@@ -1,7 +1,7 @@
 ---
 title: Thank you
 subtitle: Your message was sent successfully.
-featured_image: /images/drum-head-bw-ar67.png
+featured_image: "/images/drum-head-bw-ar67.png"
 ---
 
 ![](/images/demo/about.jpg)

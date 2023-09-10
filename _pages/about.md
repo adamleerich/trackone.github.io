@@ -1,6 +1,6 @@
 ---
 title: About the Band
-featured_image: /images/drum-head-bw-ar67.png
+featured_image: "/images/drum-head-bw-ar67.png"
 ---
 
 TrackOne is a rock cover band playing standards from all decades with a small bias to the 90s.

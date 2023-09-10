@@ -1,7 +1,7 @@
 ---
 title: Contact TrackOne
 subtitle: We'd love to hear from you
-featured_image: /images/drum-head-bw-ar67.png
+featured_image: "/images/drum-head-bw-ar67.png"
 ---
 
 {% include contact-form.html %}

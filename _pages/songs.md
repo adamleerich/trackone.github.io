@@ -1,8 +1,7 @@
 ---
 title: Set Lists
-featured_image: /images/drum-head-bw-ar67.png
+featured_image: "/images/drum-head-bw-ar67.png"
 ---
-
 
 | Song                                 | Band                 | Released  |
 |--------------------------------------|----------------------|-----------|

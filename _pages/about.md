@@ -1,5 +1,5 @@
 ---
-title: About the Band
+title: About the band
 featured_image: "/images/drum-head-bw-ar67.png"
 ---
 
@@ -15,7 +15,7 @@ We play about once a month at various local pubs and restaurants in Central CT.
 
 See our [gig calendar](/gigs) for upcoming and past shows.
 You can also [send us a note](/contact) if you are interested in playing your venue or event!
-See our [set list page](/songs) for a full list of what we are playing currently.
+See our [songs page](/songs) for a full list of what we are playing currently.
 
 
 

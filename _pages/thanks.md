@@ -1,9 +1,8 @@
 ---
 title: Thank you
 subtitle: Your message was sent successfully.
+description: Post-contact form submission page for TrackOne band's website.  TrackOne plays rock & roll covers in Central Connecticut
 featured_image: "/images/drum-head-bw-ar67.png"
 ---
 
-![](/images/demo/about.jpg)
-
-Please note, this contact form is for demo purposes only and is not monitored. Please contact us [via our website](https://jekyllthemes.io) if you need support.
+Thanks for your note -- we will get back to you soon!

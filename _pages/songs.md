@@ -1,7 +1,13 @@
 ---
-title: Set Lists
+title: Song list
+subtitle: Stuff you're likely to hear at our gigs
+description: List of songs played by TrackOne band.  TrackOne is a rock & roll cover band in Central Connecticut
 featured_image: "/images/drum-head-bw-ar67.png"
 ---
+
+We add new songs every few weeks, so this list is getting longer all the time!
+If you want us to play something let us know on the [contact form](/contact) and book us for a gig.
+
 
 | Song                                 | Band                 | Released  |
 |--------------------------------------|----------------------|-----------|

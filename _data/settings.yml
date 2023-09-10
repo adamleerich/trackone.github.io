@@ -1,7 +1,6 @@
 basic_settings:
   site_title: 'TrackOne'
   site_tagline: 'Precise and powerful covers of rock & roll staples from the 90s and more'
-  default_description:
   favicon_image: /images/favicon.ico
   copyright_holder: "Adam Rich<a href='mailto:adam@trackone.band'>&lt;adam@trackone.band&gt;</a>"
 
@@ -19,7 +18,7 @@ menu_settings:
       url: '/gigs'
     - title: 'The Band'
       url: '/about'
-    - title: 'Set Lists'
+    - title: 'Song List'
       url: '/songs'
     - title: 'Contact'
       url: '/contact'
@@ -28,7 +27,7 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/f/xbjvynjw'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'

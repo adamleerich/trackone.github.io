@@ -1,24 +1,28 @@
 basic_settings:
-  site_title: 'TrackOne!'
-  site_tagline: 'A stunning rock & roll cover band in Central CT'
+  site_title: 'TrackOne'
+  site_tagline: 'Precise and powerful covers of rock & roll staples from the 90s and more'
+  default_description:
   favicon_image: /images/favicon.ico
+  copyright_holder: "Adam Rich<a href='mailto:adam@trackone.band'>&lt;adam@trackone.band&gt;</a>"
 
 header_settings:
-  # logo_image: /images/drum-head-200.png
+  default_background: '/images/drum-head-bw-ar67.png'
   logo_image:
   logo_width: 200
   overlay_opacity: 0.7
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Home'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
-    - title: 'About'
-      url: '/about'
+    - title: 'Gigs'
+      url: '/gigs/'
+    - title: 'The Band'
+      url: '/about/'
+    - title: 'Set Lists'
+      url: '/songs/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
 
 grid_settings:
   grid_spacing: 10
@@ -58,16 +62,34 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#F5F7FA'
-  text_dark_color: '#2A2F36'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#ABB7B7'
-  accent_color: '#A2DED0'
-  border_color: '#dddddd'
+  background_color: '#111111'
+  background_alt_color: '#333333'
+
+  text_dark_color: '#bbbbbb'
+  text_medium_color: '#dddddd'
+  text_light_color: '#ffffff'
+
+  accent_color: '#B4ADEA'
+  border_color: '#222222'
+  error_color: '#A846A0'
+
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
-  error_color: '#D64541'
+
+
+
+  # Defaults ----------------------------
+  # background_color: '#ffffff'
+  # background_alt_color: '#F5F7FA'
+  # text_dark_color: '#2A2F36'
+  # text_medium_color: '#6C7A89'
+  # text_light_color: '#ABB7B7'
+  # accent_color: '#A2DED0'
+  # border_color: '#dddddd'
+  # overlay_background_color: '#161B21'
+  # overlay_text_color: '#ffffff'
+  # error_color: '#D64541
+
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'

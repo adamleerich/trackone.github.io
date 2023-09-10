@@ -1,35 +1,64 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+title: About the Band
+featured_image: /images/drum-head-bw-ar67.png
 ---
 
-![](/images/demo/demo-landscape.jpg)
+TrackOne is a rock cover band playing standards from all decades with a small bias to the 90s.
+We play songs that you'll recognize the way they were recorded (mostly).
+The guitars and bass are precise and the drumming on-point.
+The vocals are a blend of clean melodies and natural distortion.
 
-## Features
+Mark and Mike had played together for a long time as part of a local band called Retrofit and, like everyone else, had to take a break from gigging in 2020 and 2021.
+Ed, Adam and John joined the pair in 2022 to form TrackOne.
+Our first gig was at The Bach Dor in April 2023
+We play about once a month at various local pubs and restaurants in Central CT.
 
-Journal is packed with powerful features to showcase your work:
+See our [gig calendar](/gigs) for upcoming and past shows.
+You can also [send us a note](/contact) if you are interested in playing your venue or event!
+See our [set list page](/songs) for a full list of what we are playing currently.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
 
-## Get Index
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+### Ed Brickner -- Drums
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+![](/images/about/ed-jerrys-400.jpg)
+
+
+
+### John Lippe -- Guitar and Vocals
+
+[Facebook](https://www.facebook.com/profile.php?id=100088091095602)
+
+![](/images/about/john-jerrys-400.jpg)
+
+
+
+### Mark Loffredo -- Lead Guitar
+
+[Facebook](https://www.facebook.com/mark.loffredo.94)
+
+[Website](https://marksguitarlessons.com/)
+
+![](/images/about/mark-jerrys-400.jpg)
+
+
+
+### Mike Pratt -- Bass
+
+[Facebook](https://www.facebook.com/michael.pratt.739)
+
+![](/images/about/mike-jerrys-400.jpg)
+
+
+
+### Adam Rich -- Lead Vocals, Keyboard, Trumpet
+
+[Facebook](https://www.facebook.com/adamleerich2)
+
+[Instagram](https://www.instagram.com/adamleerich)
+
+![](/images/about/adam-screaming-400.jpg)
+
+
+
+

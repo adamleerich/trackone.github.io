@@ -1,7 +1,7 @@
-site: Journal Jekyll Theme
+site: TrackOne Band
 
-url: 
-baseurl: 
+url: https://trackone.band
+baseurl:
 
 collections:
   pages:
@@ -54,4 +54,3 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-  

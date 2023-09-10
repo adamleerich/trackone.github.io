@@ -16,13 +16,13 @@ menu_settings:
     - title: 'Home'
       url: '/'
     - title: 'Gigs'
-      url: '/gigs/'
+      url: '/gigs'
     - title: 'The Band'
-      url: '/about/'
+      url: '/about'
     - title: 'Set Lists'
-      url: '/songs/'
+      url: '/songs'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/contact'
 
 grid_settings:
   grid_spacing: 10

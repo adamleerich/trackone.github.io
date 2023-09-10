@@ -1,7 +1,8 @@
 ---
 title: Contact TrackOne
 subtitle: We'd love to hear from you
-description: Contact form for TrackOne band.  TrackOne is a rock & roll band in Central Connecticut playing various covers in their own style.
+description: Contact form for TrackOne band.  TrackOne is a rock & roll band in Central
+  Connecticut playing various covers in their own style.
 featured_image: "/images/drum-head-bw-ar67.png"
 ---
 

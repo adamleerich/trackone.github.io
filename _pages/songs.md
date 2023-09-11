@@ -1,8 +1,7 @@
 ---
 title: Song list
 subtitle: Stuff you're likely to hear at our gigs
-description: List of songs played by TrackOne band.  TrackOne is a rock & roll cover
-  band in Central Connecticut
+description: List of songs played by TrackOne band.  TrackOne is a rock & roll cover band in Central Connecticut.
 featured_image: "/images/drum-head-bw-ar67.png"
 ---
 

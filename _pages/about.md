@@ -1,5 +1,6 @@
 ---
 title: About the band
+description: TrackOne Band's ABOUT page.  TrackOne is a rock & roll band in Central Connecticut.  We play covers from multiple decades.
 featured_image: "/images/drum-head-bw-ar67.png"
 ---
 
@@ -10,7 +11,7 @@ The vocals are a blend of clean melodies and natural distortion.
 
 Mark and Mike had played together for a long time as part of a local band called Retrofit and, like everyone else, had to take a break from gigging in 2020 and 2021.
 Ed, Adam and John joined the pair in 2022 to form TrackOne.
-Our first gig was at The Bach Dor in April 2023
+Our first gig was at The Bach Dor in April 2023.
 We play about once a month at various local pubs and restaurants in Central CT.
 
 See our [gig calendar](/gigs) for upcoming and past shows.

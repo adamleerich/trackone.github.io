@@ -1,6 +1,6 @@
 @echo off
 
-call edit /npp "C:\home\git\other\trackone.github.io\_README.md"
+call edit /npp "C:\home\git\other\trackone.github.io\README.md"
 
 call edit /npp "C:\home\git\other\trackone.github.io\_config.yml"
 call edit /npp "C:\home\git\other\trackone.github.io\_data\settings.yml"

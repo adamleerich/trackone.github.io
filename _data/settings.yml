@@ -1,7 +1,7 @@
 basic_settings:
   site_title: 'TrackOne'
   site_tagline: 'Precise and powerful covers of rock & roll staples from the 90s and more!'
-  favicon_image: /images/favicon.ico
+  favicon_image: /favicon.ico
   copyright_holder: "Adam Rich<a href='mailto:adam@trackone.band'>&lt;adam@trackone.band&gt;</a>"
 
 header_settings:
@@ -54,7 +54,7 @@ social_settings:
   flickr_url: ''
   etsy_url: ''
   kickstarter_url: ''
-  soundcloud_url: ''
+  soundcloud_url: 'https://soundcloud.com/trackone-band'
   spotify_url: ''
   bandcamp_url: ''
   linkedin_url: ''

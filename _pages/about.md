@@ -15,7 +15,7 @@ Our first gig was at The Bach Dor in April 2023.
 We play about once a month at various local pubs and restaurants in Central CT.
 
 See our [gig calendar](/gigs) for upcoming and past shows.
-You can also [send us a note](/contact) if you are interested in playing your venue or event!
+You can also [send us a note](/contact) if you are interested in having us play your venue or event!
 See our [songs page](/songs) for a full list of what we are playing currently.
 
 

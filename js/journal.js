@@ -17,7 +17,7 @@
 	var navTarget = $('body').attr('data-page-url');
 	var docTitle = document.title;
 	var History = window.History;
-	var featuredImage = $('.page__content').attr('data-image');
+	var headerImage = $('.page__content').attr('data-image');
 
 	// State change event
 	History.Adapter.bind(window,'statechange',function(){
@@ -58,19 +58,19 @@
 				document.title = docTitle;
 
 				// Set featured image
-				var newFeaturedImage = $('.page__content').attr('data-image');
+				var newHeaderImage = $('.page__content').attr('data-image');
 
 				// Run page functions
 				pageFunctions();
 
 				// If it's not the same as the current image
-				if ( newFeaturedImage !== featuredImage ) {
+				if ( newHeaderImage !== headerImage ) {
 
 					// Update featured image variable
-					featuredImage = newFeaturedImage;
+					headerImage = newHeaderImage;
 
 					// Change and animate featured image
-					$('.header-image:not(.header-image--on)').css('background-image', 'url(' + featuredImage + ')');
+					$('.header-image:not(.header-image--on)').css('background-image', 'url(' + headerImage + ')');
 					$('.header-image:not(.header-image--on)').addClass('header-image--switch');
 
 					$('.header-image--switch').imagesLoaded( { background: true }, function() {

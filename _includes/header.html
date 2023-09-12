@@ -1,6 +1,11 @@
 <header class="header">
-
+    
+	{% if page.header_image %}
 	<div class="header-image header-image--on" style="background-image: url({{ page.header_image | relative_url }});"></div>
+	{% else %}
+	<div class="header-image header-image--on" style="background-image: url({{ site.data.settings.header_settings.default_header_image | relative_url }});"></div>
+	{% endif %}
+	
 	<div class="header-image"></div>
 
 	<div class="header-overlay"></div>

@@ -2,7 +2,7 @@
 title: Our gig calendar
 subtitle: TrackOne's upcoming and past gigs
 description: A list of TrackOne band's gigs, past and future.  TrackOne is a rock & roll cover band in Central Connecticut.
-header_image: "/images/drum-head-bw-ar67.png"
+# header_image: "/images/drum-head-bw-ar67.png"
 ---
 
 TrackOne's first gig was in April 2023.

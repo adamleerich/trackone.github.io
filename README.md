@@ -8,8 +8,8 @@ TrackOne band's website!
 * Front matter
     + `title`
     + `date` -- posts use `date` as the subtitle, pages use `subtitle`
-    + `description` or `excerpt`.  Used (with same order of preference) in sending decription to social serivces. If provided, an excerpt will appear with the `featured_image` on the home page
-    + (Optional) `featured_image` following image guidelines below
+    + `description` or `excerpt`.  Used (with same order of preference) in sending decription to social serivces. If provided, an excerpt will appear with the `header_image` on the home page
+    + (Optional) `header_image` following image guidelines below
 
 ## Image notes
 
@@ -211,7 +211,7 @@ This is your website home page, showing your latest blog posts. You can edit som
 
 `title` – this sets the page title, which shows up in the browser's title bar and on search engine results, social shares etc.
 `description` – this sets the page meta description, which shows up on search engine results, social shares etc.
-`featured_image` – this sets the page meta image, which shows up on social shares.
+`header_image` – this sets the page meta image, which shows up on social shares.
 
 ### The projects page – `/projects/index.html`
 

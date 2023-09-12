@@ -1,7 +1,7 @@
 ---
 layout: default
 description: "TrackOne Band plays rock & roll music at small and medium sized venues in Central Connecticut.  TrackOne: Precise and powerful covers of rock & roll staples from the 90s and more!"
-featured_image: "/images/drum-head-bw-ar67.png"
+header_image: "/images/drum-head-bw-ar67.png"
 ---
 
 <section class="blog single">
@@ -17,8 +17,8 @@ featured_image: "/images/drum-head-bw-ar67.png"
 				<p class="blog-post__subtitle">{{ post.date | date_to_long_string }}</p>
 			</div>
 
-			{% if post.featured_image %}
-			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
+			{% if post.header_image %}
+			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.header_image | relative_url }});"></a>
 			{% endif %}
 
 			<div class="blog-post__content">

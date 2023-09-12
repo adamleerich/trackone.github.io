@@ -1,7 +1,7 @@
 ---
 title: About the band
 description: TrackOne Band's ABOUT page.  TrackOne is a rock & roll band in Central Connecticut.  We play covers from multiple decades.
-featured_image: "/images/drum-head-bw-ar67.png"
+header_image: "/images/drum-head-bw-ar67.png"
 ---
 
 TrackOne is a rock cover band playing standards from all decades with a small bias to the 90s.

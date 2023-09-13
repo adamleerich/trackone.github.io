@@ -3,6 +3,13 @@
 TrackOne band's website!
 
 
+## Reference material
+
+* https://jekyllrb.com/docs/variables/
+* https://www.fabriziomusacchio.com/blog/2021-08-12-Liquid_Cheat_Sheet/
+
+
+
 ## Rules for each post
 
 * Front matter

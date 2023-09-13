@@ -99,6 +99,7 @@ exclude:
   - vendor/ruby/
   - CNAME
   - README.md
+  - "*/README.md"
 
 
 

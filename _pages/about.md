@@ -44,7 +44,7 @@ See our [songs page](/songs) for a full list of what we are playing currently.
 
 
 
-### Mike Pratt -- Bass
+### Mike Pratt -- Bass and Vocals
 
 [Facebook](https://www.facebook.com/michael.pratt.739)
 

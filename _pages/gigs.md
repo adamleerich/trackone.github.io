@@ -16,6 +16,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 | Date       | Place                        | Where              | Start Time  |
 |------------|------------------------------|--------------------|-------------|
 | 9/22/2023  | Jerry's Pizza and Bar        | Middletown, CT     | 7pm         |
+| 11/11/2023 | Tavern on 3                  | Rocky Hill, CT     | 8pm         |
 
 
 

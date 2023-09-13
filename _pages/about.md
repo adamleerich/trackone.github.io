@@ -20,7 +20,7 @@ See our [songs page](/songs) for a full list of what we are playing currently.
 
 
 
-### Ed Brickner -- Drums
+### Eddie B -- Drums
 
 ![](/images/about/ed-jerrys-400.jpg)
 

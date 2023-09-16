@@ -132,7 +132,8 @@
 		padding: 0;
 	}
 
-	p a {
+	/* [2023-09-13] Was "p a" but then anchors in lists were not getting underlines */
+	a {
 		font-weight: $bold-weight;
 		border-bottom: 2px solid $accent-color;
 	}

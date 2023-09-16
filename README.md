@@ -66,8 +66,25 @@ Same as a 1-column gallery.
 ### Embedded videos
 
 ```
-<iframe src="https://player.vimeo.com/video/203710832" width="640" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe
+   src="https://player.vimeo.com/video/203710832"
+   width="640" height="288"
+   frameborder="0"
+   webkitallowfullscreen
+   mozallowfullscreen
+   allowfullscreen></iframe>
 ```
+
+````
+<iframe
+  width="560" height="315"
+  src="https://www.youtube.com/embed/VSPkKpqZAs4?si=P9pQvhGjwvOhrGDI"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen></iframe>
+```
+
 
 ## Other snippets
 

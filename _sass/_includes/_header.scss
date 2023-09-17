@@ -56,7 +56,13 @@
 }
 
 .header-image--on {
-	opacity: 1;
+	
+	/* No header image unless in the sidebar */
+	@include mq(tabletl) {
+	    opacity: 1;
+	}
+	
+	
 }
 
 .header-overlay {
@@ -90,12 +96,12 @@
 
 .header__logo {
 	display: block;
-	width: $logo-width;
+	// width: $logo-width;
 	max-width: 80%;
 
 	@include mq(tabletp) {
-		float: left;
-		max-width: 50%;
+		// float: left;
+		max-width: 80%;
 	}
 }
 

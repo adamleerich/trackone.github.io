@@ -2,7 +2,7 @@
 title: Demo Video
 date: 2023-09-16
 # summary_image: "/images/2023-09-13/jerrys-raffle-flyer-top.jpg"
-header_image: "/images/2023-09-16/adam-friends-hatless-bw.jpg"
+# header_image: "/images/2023-09-16/adam-friends-hatless-bw.jpg"
 ---
 
 <iframe

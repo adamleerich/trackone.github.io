@@ -1,14 +1,15 @@
 basic_settings:
   site_title: 'TrackOne'
-  site_tagline: 'Precise and powerful covers of rock & roll staples from the 90s and more!'
+  site_tagline: 'Rock music for Central Connecticut &mdash; precise and powerful covers from the 90s and more!'
+  # site_tagline: 'Precise and powerful covers of rock staples from the 90s and more!'
   favicon_image: /favicon.ico
   copyright_holder: "Adam Rich<a href='mailto:adam@trackone.band'>&lt;adam@trackone.band&gt;</a>"
 
 header_settings:
-  logo_image:
-  logo_width: 200
+  logo_image: "/images/trackone-handwritten-alpha-white.png"
+  logo_width: 200  # CSS updated to show max-width of 80%.  See _header.scss
   overlay_opacity: 0.7
-  default_header_image: "/images/drum-head-bw-ar67.png"
+  default_header_image: "/images/empty-stage-bw.jpg"
 
 menu_settings:
   menu_items:

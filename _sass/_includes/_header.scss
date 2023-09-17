@@ -56,7 +56,13 @@
 }
 
 .header-image--on {
-	opacity: 1;
+	
+	/* No header image unless in the sidebar */
+	@include mq(tabletl) {
+	    opacity: 1;
+	}
+	
+	
 }
 
 .header-overlay {

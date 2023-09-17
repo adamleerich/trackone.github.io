@@ -28,7 +28,7 @@ See our [songs page](/songs) for a full list of what we are playing currently.
 
 ### John Lippe -- Guitar and Vocals
 
-[Facebook](https://www.facebook.com/profile.php?id=100088091095602)
+* [Facebook](https://www.facebook.com/profile.php?id=100088091095602)
 
 ![](/images/about/john-jerrys-400.jpg)
 
@@ -36,9 +36,8 @@ See our [songs page](/songs) for a full list of what we are playing currently.
 
 ### Mark Loffredo -- Lead Guitar
 
-[Facebook](https://www.facebook.com/mark.loffredo.94)
-
-[Website](https://marksguitarlessons.com/)
+* [Facebook](https://www.facebook.com/mark.loffredo.94)
+* [Website](https://marksguitarlessons.com/)
 
 ![](/images/about/mark-jerrys-400.jpg)
 
@@ -46,7 +45,7 @@ See our [songs page](/songs) for a full list of what we are playing currently.
 
 ### Mike Pratt -- Bass and Vocals
 
-[Facebook](https://www.facebook.com/michael.pratt.739)
+* [Facebook](https://www.facebook.com/michael.pratt.739)
 
 ![](/images/about/mike-jerrys-400.jpg)
 
@@ -54,9 +53,10 @@ See our [songs page](/songs) for a full list of what we are playing currently.
 
 ### Adam Rich -- Lead Vocals, Keyboard, Trumpet
 
-[Facebook](https://www.facebook.com/adamleerich2)
+* [Facebook](https://www.facebook.com/adamleerich2)
+* [Instagram](https://www.instagram.com/adamleerich)
 
-[Instagram](https://www.instagram.com/adamleerich)
+
 
 ![](/images/about/adam-screaming-400.jpg)
 

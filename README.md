@@ -33,6 +33,12 @@ Dimensions come from inspecting Journal demo page on Sticker laptop with 1920x10
 * Make sure middle 37.5% of the image is worth highlighting!
 * Standard images: 400x400
 
+### Facebook images:
+
+* Cover photo = 1095x405.55, 2.7:1 aspect
+* Event cover photos = 665x350 = 1.9:1 aspect
+
+
 ### Instagram guidelines:
 
 * Landscape = 1080x566, 1.91:1 aspect

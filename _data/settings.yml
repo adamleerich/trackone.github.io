@@ -61,6 +61,7 @@ social_settings:
   bandcamp_url: ''
   linkedin_url: ''
   # threads_url: 'https://www.threads.net/@trackone.band'
+  dropbox_url: 'https://www.dropbox.com/request/nNIUrCfBoWA1VWCgLK7Y'
 
 color_settings:
   background_color: '#111111'

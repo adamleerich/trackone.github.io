@@ -2,7 +2,7 @@
 title: Gig & giveaway on Sept 22!
 date: 2023-09-13
 summary_image: "/images/2023-09-13/jerrys-raffle-flyer-top.jpg"
-header_image: "/images/empty-stage-bw.jpg"
+# header_image: "/images/empty-stage-bw.jpg"
 ---
 
 Our next show is September 22 at Jerry's in Middletown at 7pm.

@@ -2,7 +2,7 @@
 title: "Man in the Box at Jerry's Pizza and Bar"
 date: 2023-10-01
 # summary_image: ""
-header_image: "/images/2023-10-01/alice-in-chains-facelift.jpg"
+# header_image: "/images/2023-10-01/alice-in-chains-facelift.jpg"
 ---
 
 <iframe

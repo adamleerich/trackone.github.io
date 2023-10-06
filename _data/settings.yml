@@ -9,7 +9,7 @@ header_settings:
   logo_image: "/images/trackone-handwritten-alpha-white.png"
   logo_width: 200  # CSS updated to show max-width of 80%.  See _header.scss
   overlay_opacity: 0.7
-  default_header_image: "/images/empty-stage-bw.jpg"
+  default_header_image: "/images/guitar-skull.png"
 
 menu_settings:
   menu_items:

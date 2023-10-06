@@ -2,7 +2,7 @@
 title: "Enter Sandman by Metallica"
 date: 2023-10-05
 # summary_image: ""
-header_image: "/images/2023-10-05/enter-sandman.jpg"
+# header_image: "/images/2023-10-05/enter-sandman.jpg"
 ---
 
 <iframe

@@ -10,14 +10,14 @@
 
 .footer {
 	@include transition(all 0.6s cubic-bezier(.87,-.41,.19,1.44));
-	padding: 20px;
+	padding: 40px;
 
 	@include mq(tabletp) {
-		padding: 40px;
+		padding: 60px;
 	}
 
 	@include mq(laptop) {
-		padding: 60px;
+		padding: 80px;
 	}
 
 	@include mq(tabletl) {

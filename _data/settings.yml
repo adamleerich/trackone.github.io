@@ -13,18 +13,18 @@ header_settings:
 
 banner_settings:
   message: "Next show November 11!"
-  url: "/gigs"
+  url: "/2023/10/11/veterans-day-gig.html"
 
 menu_settings:
   menu_items:
-    - title: 'Home'
+    - title: 'News'
       url: '/'
     - title: 'Gigs'
       url: '/gigs'
-    - title: 'The Band'
-      url: '/about'
-    - title: 'Song List'
+    - title: 'Songs'
       url: '/songs'
+    - title: 'About'
+      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
@@ -82,8 +82,8 @@ color_settings:
   overlay_background_color: '#161B21'
   overlay_text_color: '#ffffff'
 
-  text_banner_color: '#ff4500'
-  banner_background_color: '#ffffff'
+  text_banner_color: '#000000'
+  banner_background_color: '#FFE900'
 
 
 

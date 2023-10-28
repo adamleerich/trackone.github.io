@@ -13,28 +13,33 @@
     position: fixed;
     bottom: 0;
     right: 0;
-	   z-index: 100;
-	   padding-top: 10px;
-	   padding-bottom: 10px;
+    z-index: 100;
+    padding-top: 10px;
+    padding-bottom: 10px;
     width: 100%;
 
-	@include mq(tabletl) {
-	   	width: 70%;
-    float: right;
-	}
+    @include mq(tabletl) {
+        width: 70%;
+        float: right;
+    }
 
-	@include mq(desktop) {
-		   width: 75%;
-     float: right;
-	}
+    @include mq(desktop) {
+        width: 75%;
+        float: right;
+    }
 
     background: $banner-background-color;
-	// opacity: 0.80;
+    opacity: 0.95;
 
-	font-family: $body-font;
+    font-family: $body-font;
     color: $text-banner-color;
-	text-align: center;
-	font-weight: $bold-weight;
-		
+    text-align: center;
+    font-weight: $bold-weight;
+
 }
 
+.always-on-banner a {
+	font-weight: $bold-weight;
+    border-bottom: 2px solid $text-banner-color;
+    color: $text-banner-color;
+}

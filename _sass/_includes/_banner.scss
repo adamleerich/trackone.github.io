@@ -13,17 +13,19 @@
     position: fixed;
     bottom: 0;
     right: 0;
-	float: right;
-	z-index: 100;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	   z-index: 100;
+	   padding-top: 10px;
+	   padding-bottom: 10px;
+    width: 100%;
 
 	@include mq(tabletl) {
-		width: 70%;
+	   	width: 70%;
+    float: right;
 	}
 
 	@include mq(desktop) {
-		width: 75%;
+		   width: 75%;
+     float: right;
 	}
 
     background: $banner-background-color;

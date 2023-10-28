@@ -12,7 +12,7 @@ header_settings:
   default_header_image: "/images/guitar-skull.png"
 
 banner_settings:
-  message: "Next show: Nov 11 at Tavern on 3 in Rocky Hill"
+  message: "Next show November 11!"
   url: "/gigs"
 
 menu_settings:

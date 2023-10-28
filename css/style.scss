@@ -29,8 +29,8 @@ $overlay-text-color: {{ site.data.settings.color_settings.overlay_text_color }};
 
 $error-color: {{ site.data.settings.color_settings.error_color }};
 
-$banner-background-color: $error-color;
-$text-banner-color: $text-dark-color;
+$banner-background-color: {{ site.data.settings.color_settings.banner_background_color }};
+$text-banner-color: {{ site.data.settings.color_settings.text_banner_color }};
 
 // Fonts
 

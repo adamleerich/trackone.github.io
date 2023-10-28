@@ -29,6 +29,8 @@ $overlay-text-color: {{ site.data.settings.color_settings.overlay_text_color }};
 
 $error-color: {{ site.data.settings.color_settings.error_color }};
 
+$banner-background-color: $error-color;
+$text-banner-color: $text-dark-color;
 
 // Fonts
 
@@ -140,6 +142,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 @import "_includes/_header";
 @import "_includes/_footer";
+@import "_includes/_banner";
 
 @import "_includes/_content";
 @import "_includes/_socials";

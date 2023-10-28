@@ -1,0 +1,38 @@
+// - - - - - - - - - - - - - - - - - -
+
+// Banner
+
+// - - - - - - - - - - - - - - - - - -
+
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Banner
+
+// https://stackoverflow.com/a/36558145
+.always-on-banner {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+	float: right;
+	z-index: 100;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	@include mq(tabletl) {
+		width: 70%;
+	}
+
+	@include mq(desktop) {
+		width: 75%;
+	}
+
+    background: $banner-background-color;
+	opacity: 0.80;
+
+	font-family: $body-font;
+    color: $text-banner-color;
+	text-align: center;
+	font-weight: $bold-weight;
+		
+}
+

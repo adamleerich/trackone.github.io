@@ -1,0 +1,16 @@
+
+{% if site.data.settings.banner_settings.message %}
+
+<div class="always-on-banner ">
+  <div class="animate__animated animate__backInUp">
+        
+    {% if site.data.settings.banner_settings.url %}
+	    <a href="{{ site.data.settings.banner_settings.url }}">{{ site.data.settings.banner_settings.message }}</a>
+	{% else %}
+        <span>{{ site.data.settings.banner_settings.message }}</span>
+    {% endif %}
+
+  </div>
+</div>
+
+{% endif %}

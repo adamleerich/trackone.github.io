@@ -1,5 +1,5 @@
 ---
-title: Demo Video
+title: "New Video: Excerpts from Friend's Cafe Show"
 date: 2023-09-16
 # summary_image: "/images/2023-09-13/jerrys-raffle-flyer-top.jpg"
 # header_image: "/images/2023-09-16/adam-friends-hatless-bw.jpg"

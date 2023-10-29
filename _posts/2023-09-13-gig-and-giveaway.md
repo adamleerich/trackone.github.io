@@ -1,5 +1,5 @@
 ---
-title: Gig & giveaway on Sept 22!
+title: "Upcoming: Gig & giveaway on Sept 22!"
 date: 2023-09-13
 summary_image: "/images/2023-09-13/jerrys-raffle-flyer-top.jpg"
 # header_image: "/images/empty-stage-bw.jpg"

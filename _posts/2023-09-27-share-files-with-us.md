@@ -1,5 +1,5 @@
 ---
-title: Share videos and pictures with us without a DropBox account
+title: "Share videos and pictures with us without a DropBox account"
 date: 2023-09-27
 summary_image: "/images/2023-09-27/dropbox-file-request-screen.png"
 # header_image: "/images/2023-09-16/adam-friends-hatless-bw.jpg"

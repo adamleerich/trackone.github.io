@@ -1,5 +1,5 @@
 ---
-title: "Veteran's Day Gig at Tavern on 3 in Rocky Hill"
+title: "Upcoming: Veteran's Day Gig in Rocky Hill"
 date: 2023-10-11
 summary_image: "/images/2023-10-11/tavern-on-3-banner.png"
 ---

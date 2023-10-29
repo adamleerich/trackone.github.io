@@ -11,7 +11,7 @@ If you want us to play something let us know on the [contact form](/contact) and
 | Song                                 | Band                 | Released  |
 |--------------------------------------|----------------------|-----------|
 | Addicted to Love                     | Robert Palmer        | 1986      |
-| All Right Now                        | Free                 | 1970      |
+| [All Right Now][7]                   | [Free][7]            | [1970][7] |
 | American Woman                       | Lenny Kravitz        | 1999      |
 | Blurry                               | Puddle of Mudd       | 2001      |
 | Bye Bye Love                         | The Cars             | 1978      |
@@ -63,3 +63,4 @@ If you want us to play something let us know on the [contact form](/contact) and
 [4]: https://youtu.be/VSPkKpqZAs4?si=8dF3vf704kGDKwZJ&t=0 "Living After Midnight performed by TrackOne"
 [5]: https://youtu.be/VSPkKpqZAs4?si=8dF3vf704kGDKwZJ&t=102 "Should I Stay or Should I Go performed by TrackOne"
 [6]: https://youtu.be/VSPkKpqZAs4?si=YfNSUYFS94M5sg9h&t=143 "I Wanna Be Sedated performed by TrackOne"
+[7]: https://www.instagram.com/reel/Cy9ifSLBXpt/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== "All Right Now performed by TrackOne"

@@ -1,5 +1,5 @@
 ---
-title: "Enter Sandman by Metallica"
+title: "New Video: Enter Sandman"
 date: 2023-10-05
 # summary_image: ""
 # header_image: "/images/2023-10-05/enter-sandman.jpg"

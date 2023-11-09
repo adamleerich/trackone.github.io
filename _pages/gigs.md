@@ -17,6 +17,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 |-----------------|------------------------------|----------------------|-------------|
 | [11/11/2023][1] | [Tavern on 3][1]             | [Rocky Hill, CT][1]  | [8pm][1]    |
 | 12/29/2023      | Four Seasons by the Lake     | Stafford Springs, CT | 7pm         |
+| 1/27/2023       | Stryker's Cafe               | Berlin, CT           | 7:30pm      |
 | 2/23/2024       | Jerry's Pizza and Bar        | Middletown, CT       | 7pm         |
 | 6/8/2024        | Jerry's Pizza and Bar        | Middletown, CT       | 7pm         |
 

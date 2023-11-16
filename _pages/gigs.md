@@ -15,9 +15,9 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date            | Place                        | Where                | Start Time  |
 |-----------------|------------------------------|----------------------|-------------|
-| [11/11/2023][1] | [Tavern on 3][1]             | [Rocky Hill, CT][1]  | [8pm][1]    |
 | 12/29/2023      | Four Seasons by the Lake     | Stafford Springs, CT | 7pm         |
-| 1/27/2023       | Stryker's Cafe               | Berlin, CT           | 7:30pm      |
+| 1/27/2024       | Stryker's Cafe               | Berlin, CT           | 7:30pm      |
+| 2/3/2024        | Tavern on 3                  | Rocky Hill, CT       | 8pm         |
 | 2/23/2024       | Jerry's Pizza and Bar        | Middletown, CT       | 7pm         |
 | 6/8/2024        | Jerry's Pizza and Bar        | Middletown, CT       | 7pm         |
 
@@ -27,6 +27,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date            | Place                        | Where                | Start Time  |
 |-----------------|------------------------------|----------------------|-------------|
+| [11/11/2023][1] | [Tavern on 3][1]             | [Rocky Hill, CT][1]  | [8pm][1]    |
 | [9/22/2023][2]  | [Jerry's Pizza and Bar][2]   | [Middletown, CT][2]  | [7pm][2]    |
 | 8/12/2023       | Carmine's Grill & Stage      | E. Hartford, CT      | 8pm         |
 | 8/5/2023        | Stryker's Cafe               | Berlin, CT           | 8pm         |
@@ -40,3 +41,4 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 [3]: /2023/05/05/carmines.html
 [4]: /2023/06/18/jerrys.html
 [5]: /2023/09/16/demo-video.html
+

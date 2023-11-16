@@ -12,8 +12,8 @@ header_settings:
   default_header_image: "/images/guitar-skull.png"
 
 banner_settings:
-  message: "Next show November 11!"
-  url: "/2023/10/11/veterans-day-gig.html"
+  message: "Next show December 29!"
+  url: "/gigs"
 
 menu_settings:
   menu_items:

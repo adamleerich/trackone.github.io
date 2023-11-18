@@ -344,3 +344,29 @@ wrap
 
 
 
+
+
+   <meta property="og:title" content="Title of the shared link">
+   <meta property="og:description" content="Description of the content">
+   <meta property="og:image" content="https://example.com/thumbnail.jpg">
+   <meta property="og:url" content="https://example.com/">
+
+   <meta property="og:locale" content="en_US" />
+   <meta property="og:type" content="website" />
+
+   <meta property="og:site_name" content="Real-time SEO Auditing and Content Tracking" />
+
+   <meta name="twitter:card" content="summary_large_image">
+   <meta name="twitter:title" content="Title of the shared link">
+   <meta name="twitter:description" content="Description of the content">
+   <meta name="twitter:image" content="URL of the image">
+   <meta name="twitter:url" content="URL of the shared link">
+
+When it comes to og:image, keep the following requirements in mind:
+
+* At least 600 x 315 pixels—but ideally at least 1,200 x 630 pixels
+* The absolute minimum image size is 200 x 20 pixels
+* Stick to a 1.91:1 aspect ratio.
+
+
+

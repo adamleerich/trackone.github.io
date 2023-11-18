@@ -27,12 +27,14 @@ If you want us to play something let us know on the [contact form](/contact) and
 | Interstate Love Song                 | Stone Temple Pilots  | 1994      |
 | [Living After Midnight][4]           | [Judas Priest][4]    | [1980][4] |
 | Longview                             | Green Day            | 1994      |
+| Machinehead                          | Bush                 | 1994      |
 | [Man in the Box][3]                  | [Alice in Chains][3] | [1991][3] |
 | Man On The Silver Mountain           | Rainbow              | 1975      |
 | Mary Jane's Last Dance               | Tom Petty            | 1993      |
 | Me and Julio Down by the Schoolyard  | Paul Simon           | 1972      |
 | My Sharona                           | The Knack            | 1979      |
 | One Way Or Another                   | Blondie              | 1978      |
+| Plush                                | Stone Temple Pilots  | 1993      |
 | Possum Kingdom                       | Toadies              | 1994      |
 | Rebel Rebel                          | David Bowie          | 1974      |
 | Rebel Yell                           | Billy Idol           | 1983      |

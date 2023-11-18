@@ -19,6 +19,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 | 1/27/2024       | Stryker's Cafe               | Berlin, CT           | 7:30pm      |
 | 2/3/2024        | Tavern on 3                  | Rocky Hill, CT       | 8pm         |
 | 2/23/2024       | Jerry's Pizza and Bar        | Middletown, CT       | 7pm         |
+| 4/13/2024       | Shea's American Grill        | Manchester, CT       | 9pm         |
 | 6/8/2024        | Jerry's Pizza and Bar        | Middletown, CT       | 7pm         |
 
 

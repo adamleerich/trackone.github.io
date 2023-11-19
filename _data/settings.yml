@@ -2,7 +2,7 @@ basic_settings:
   site_title: 'TrackOne'
   site_tagline: 'Rock music for Central Connecticut &amp; precise and powerful covers from the 90s and more!'
   favicon_image: "/favicon.ico"
-  default_social_image: "/images/facebook-cover-template--16-9.jpg"
+  default_social_image: "/images/drum-head-ogp-1200-630.png"
   site_url: 'https://trackone.band/'
   copyright_holder: "Adam Rich<a href='mailto:adam@trackone.band'>&lt;adam@trackone.band&gt;</a>"
 

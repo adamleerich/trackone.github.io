@@ -18,34 +18,55 @@ TrackOne band's website!
     + `description` or `excerpt`.  Used (with same order of preference) in sending decription to social serivces. If provided, an excerpt will appear with the `header_image` on the home page
     + (Optional) `header_image` following image guidelines below
 
+
+
+
 ## Image notes
 
-Dimensions come from inspecting Journal demo page on Sticker laptop with 1920x1080 resolution.
+### Common uses
 
-* Header background = 471x707, 2:3 aspect ratio
-* Featured images in list of posts on home page = 943x531, 16:9 aspect ratio
-* When using the same image for both, only the middle 6/16 = 37.5% of the image is used in the header background
+| Image Type              | Purpose                                    | Width  | Height  | Aspect Ratio  |
+|:------------------------|:-------------------------------------------|-------:|--------:|:-------------:|
+| `header_image`          | Background of side panel                   | 500    | 750     | 2:3           |
+| `summary_image`         | Image on index page                        | 1280   | 720     | 16:9          |
+| `social_image`          | Populates og:image and twitter:image       | 1200   | 630     | 1.91:1        |
+| `default_social_image`  |                                            | 1200   | 630     | 1.91:1        |
+| `default_header_image`  |                                            | 500    | 750     | 2:3           |
+| `logo_image`            | Currently scaled from 717x148 to 200x41.3  | 200    |         |               |
+| FB cover photo          |                                            | 1095   | 405.55  | 2.7:1         |
+| FB event cover photo    |                                            | 665    | 350     | 1.91:1        |
+| IG landscape            |                                            | 1080   | 566     | 1.91:1        |
+| IG portrait             |                                            | 1080   | 1350    | 4:5           |
+| IG square               |                                            | 1080   | 1080    | 1:1           |
 
-### Website guidelines:
-
-* Header background only: set to 480x720, 2:3 aspect
-* Featured image in post: set to 1280x720, 16:9 aspect
+* When using the same image for both `header_image` and `summary_image`, only the middle 6/16 = 37.5% of the image is used in the header background
 * Make sure middle 37.5% of the image is worth highlighting!
-* Standard images: 400x400
-
-### Facebook images:
-
-* Cover photo = 1095x405.55, 2.7:1 aspect
-* Event cover photos = 665x350 = 1.9:1 aspect
 
 
-### Instagram guidelines:
+### Common aspect ratios
 
-* Landscape = 1080x566, 1.91:1 aspect
-* Portrait = 1080x1350, 4:5 aspect
-* Square = 1080x1080
+| Aspect Ratio  | Height/Width  |
+|---------------|---------------|
+| 2.7 : 1       | 0.370         |
+| 2 : 1         | 0.500         |
+| 1.91 : 1      | 0.524         |
+| 16 : 9        | 0.563         |
+| 3 : 2         | 0.667         |
+| 4 : 3         | 0.750         |
+| 11 : 8.5      | 0.773         |
+| 5 : 4         | 0.800         |
+| 1 : 1         | 1.000         |
+| 4 : 5         | 1.250         |
+| 8.5 : 11      | 1.294         |
+| 3 : 4         | 1.333         |
+| 2 : 3         | 1.500         |
+| 9 : 16        | 1.778         |
+| 1 : 1.91      | 1.910         |
+| 1 : 2         | 2.000         |
+| 1 : 2.7       | 2.700         |
 
-### Image galleries:
+
+### Image galleries
 
 ```
 <div class="gallery" data-columns="3">
@@ -81,7 +102,7 @@ Same as a 1-column gallery.
    allowfullscreen></iframe>
 ```
 
-````
+```
 <iframe
   width="560" height="315"
   src="https://www.youtube.com/embed/VSPkKpqZAs4?si=P9pQvhGjwvOhrGDI"
@@ -343,30 +364,28 @@ wrap
 
 
 
+## Open Graph nodes example
 
+```
+<title>TrackOne</title>
 
+<meta property="og:title" content="TrackOne">
+<meta name="twitter:title" content="TrackOne">
 
-   <meta property="og:title" content="Title of the shared link">
-   <meta property="og:description" content="Description of the content">
-   <meta property="og:image" content="https://example.com/thumbnail.jpg">
-   <meta property="og:url" content="https://example.com/">
+<meta property="og:site_name" content="TrackOne: Rock music for Central Connecticut &amp; precise and powerful covers from the 90s and more!">
 
-   <meta property="og:locale" content="en_US" />
-   <meta property="og:type" content="website" />
+<meta name="description" content="TrackOne Band plays rock &amp; roll music at small and medium sized venues in Central Connecticut.">
+<meta name="twitter:description" content="TrackOne Band plays rock &amp; roll music at small and medium sized venues in Central Connecticut.">
+<meta property="og:description" content="TrackOne Band plays rock &amp; roll music at small and medium sized venues in Central Connecticut.">
 
-   <meta property="og:site_name" content="Real-time SEO Auditing and Content Tracking" />
+<meta name="twitter:image:src" content="https://trackone.band/images/facebook-cover-template--16-9.jpg">
+<meta property="og:image" content="https://trackone.band/images/facebook-cover-template--16-9.jpg">
 
-   <meta name="twitter:card" content="summary_large_image">
-   <meta name="twitter:title" content="Title of the shared link">
-   <meta name="twitter:description" content="Description of the content">
-   <meta name="twitter:image" content="URL of the image">
-   <meta name="twitter:url" content="URL of the shared link">
+<meta property="og:url" content="https://trackone.band/">
+<meta name="twitter:url" content="https://trackone.band/">
 
-When it comes to og:image, keep the following requirements in mind:
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
 
-* At least 600 x 315 pixels—but ideally at least 1,200 x 630 pixels
-* The absolute minimum image size is 200 x 20 pixels
-* Stick to a 1.91:1 aspect ratio.
-
-
-
+```

@@ -1,6 +1,9 @@
 ---
 title: "Puzzle: Name that Classic Rock Song"
-date: 2023-10-29
+date: 2023-11-19
+summary_image: "/images/2023-11-19/name-that-classic-rock-song-00-cover--social.jpg"
+social_image: "/images/2023-11-19/name-that-classic-rock-song-00-cover--social.jpg"
+excerpt: 'Play a fun "name that tune" game with us!'
 ---
 
 These are pictures drawn by kids of a band member and given to him as a Christmas present in 2018.
@@ -12,35 +15,35 @@ But, they are all well-known songs -- how many can you get?
 Match the number on each image to the list at the bottom of the page to check your answers.
 
 <div class="gallery" data-columns="4">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-00-cover.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-01.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-02.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-03.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-04.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-05.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-06.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-07.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-08.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-09.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-10.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-11.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-12.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-13.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-14.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-15.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-16.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-17.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-18.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-19.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-20.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-21.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-22.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-23.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-24.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-25.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-26.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-27.jpg">
-  <img src="/images/2023-10-29/name-that-classic-rock-song-28.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-00-cover.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-26.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-09.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-25.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-20.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-17.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-14.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-07.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-03.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-27.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-28.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-18.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-02.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-10.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-01.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-04.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-06.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-16.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-21.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-11.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-13.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-12.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-19.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-15.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-22.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-08.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-05.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-23.jpg">
+  <img src="/images/2023-11-19/name-that-classic-rock-song-24.jpg">
 </div>
 
 OK, so this isn't promoting TrackOne, but that's cool right?  :)

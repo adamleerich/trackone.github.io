@@ -49,8 +49,8 @@
 
   <!-- Other OG stuff -->
   <meta property="og:type"       content="website">
-  <meta property="og:url"        content="{{ site.data.settings.basic_settings.site_url }}">
-  <meta name="twitter:url"       content="{{ site.data.settings.basic_settings.site_url }}">
+  <meta property="og:url"        content="{{ page.url | absolute_url }}">
+  <meta name="twitter:url"       content="{{ page.url | absolute_url }}">
   <meta property="og:locale"     content="en_US">
   <meta property="og:site_name"  content="{{ site.data.settings.basic_settings.site_title }}: {{ site.data.settings.basic_settings.site_tagline }}">
   <meta name="twitter:card"      content="summary_large_image">

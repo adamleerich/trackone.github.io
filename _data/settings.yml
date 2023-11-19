@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: 'TrackOne'
-  site_tagline: 'Rock music for Central Connecticut &amp; precise and powerful covers from the 90s and more!'
+  site_title: 'TrackOne Band'
+  site_tagline: 'Mainstream and alternative rock for Central Connecticut.'
   favicon_image: "/favicon.ico"
   default_social_image: "/images/drum-head-ogp-1200-630.png"
   site_url: 'https://trackone.band/'

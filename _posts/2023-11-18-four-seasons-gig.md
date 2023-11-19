@@ -1,7 +1,8 @@
 ---
 title: "Upcoming: Dec 29 show at Four Seasons by the Lake!"
 date: 2023-11-18
-summary_image: "/images/2023-11-18/four-seasons-lake-pic--16-9--with-logo.jpg"
+summary_image: "/images/2023-11-18/four-seasons-gig-v2-summary.png"
+social_image: "/images/2023-11-18/four-seasons-gig-v2-summary.png"
 ---
 
 Next show is December 29, at [Four Seasons by the Lake](https://fourseasonsstafford.com/) in Stafford Springs, CT.

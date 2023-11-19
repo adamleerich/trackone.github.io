@@ -291,75 +291,75 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 
 ## HTML classes list
 
-ajax-loading
-blog
-single
-blog-post
-blog-post__content
-blog-post__header
-blog-post__image
-blog-post__subtitle
-blog-post__title
-button
-button--large
-contact-form
-contact-form__gotcha
-contact-form__input
-contact-form__item
-contact-form__label
-contact-form__textarea
-fab
-fa-angle-right
-fa-angle-left
-fluidbox__ghost
-footer
-footer__copyright
-gallery
-gallery__item
-gallery__wrap
-header
-header__content
-header__logo
-header__logo__img
-header__tagline
-header__title
-header-image
-header-image--on
-header-overlay
-hero__text
-image-wrap
-intro
-loader
-loading
-menu
-menu__list
-menu__list__item
-menu__list__item__link
-menu__toggle
-js-menu-toggle
-menu__toggle__icon
-menu__wrap
-no-js
-page
-page__content
-page-loader
-pagination
-pagination__next
-pagination__prev
-portfolio
-portfolio-item
-portfolio-item__content
-portfolio-item__image
-portfolio-item__info
-portfolio-item__link
-portfolio-item__subtitle
-portfolio-item__title
-socials
-socials__item
-socials__item__link
-table-wrap
-video-wrap
-wrap
+* ajax-loading
+* blog
+* single
+* blog-post
+* blog-post__content
+* blog-post__header
+* blog-post__image
+* blog-post__subtitle
+* blog-post__title
+* button
+* button--large
+* contact-form
+* contact-form__gotcha
+* contact-form__input
+* contact-form__item
+* contact-form__label
+* contact-form__textarea
+* fab
+* fa-angle-right
+* fa-angle-left
+* fluidbox__ghost
+* footer
+* footer__copyright
+* gallery
+* gallery__item
+* gallery__wrap
+* header
+* header__content
+* header__logo
+* header__logo__img
+* header__tagline
+* header__title
+* header-image
+* header-image--on
+* header-overlay
+* hero__text
+* image-wrap
+* intro
+* loader
+* loading
+* menu
+* menu__list
+* menu__list__item
+* menu__list__item__link
+* menu__toggle
+* js-menu-toggle
+* menu__toggle__icon
+* menu__wrap
+* no-js
+* page
+* page__content
+* page-loader
+* pagination
+* pagination__next
+* pagination__prev
+* portfolio
+* portfolio-item
+* portfolio-item__content
+* portfolio-item__image
+* portfolio-item__info
+* portfolio-item__link
+* portfolio-item__subtitle
+* portfolio-item__title
+* socials
+* socials__item
+* socials__item__link
+* table-wrap
+* video-wrap
+* wrap
 
 
 
@@ -367,25 +367,24 @@ wrap
 ## Open Graph nodes example
 
 ```
+<!-- HTML Meta Tags -->
 <title>TrackOne</title>
+<meta name="description" content="TrackOne Band plays rock & roll music at small and medium sized venues in Central Connecticut.">
 
-<meta property="og:title" content="TrackOne">
-<meta name="twitter:title" content="TrackOne">
-
-<meta property="og:site_name" content="TrackOne: Rock music for Central Connecticut &amp; precise and powerful covers from the 90s and more!">
-
-<meta name="description" content="TrackOne Band plays rock &amp; roll music at small and medium sized venues in Central Connecticut.">
-<meta name="twitter:description" content="TrackOne Band plays rock &amp; roll music at small and medium sized venues in Central Connecticut.">
-<meta property="og:description" content="TrackOne Band plays rock &amp; roll music at small and medium sized venues in Central Connecticut.">
-
-<meta name="twitter:image:src" content="https://trackone.band/images/facebook-cover-template--16-9.jpg">
-<meta property="og:image" content="https://trackone.band/images/facebook-cover-template--16-9.jpg">
-
+<!-- Facebook Meta Tags -->
 <meta property="og:url" content="https://trackone.band/">
-<meta name="twitter:url" content="https://trackone.band/">
-
-<meta property="og:locale" content="en_US">
 <meta property="og:type" content="website">
-<meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="TrackOne">
+<meta property="og:description" content="TrackOne Band plays rock & roll music at small and medium sized venues in Central Connecticut.">
+<meta property="og:image" content="https://trackone.band/images/drum-head-ogp-1200-630.png">
 
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="trackone.band">
+<meta property="twitter:url" content="https://trackone.band/">
+<meta name="twitter:title" content="TrackOne">
+<meta name="twitter:description" content="TrackOne Band plays rock & roll music at small and medium sized venues in Central Connecticut.">
+<meta name="twitter:image" content="https://trackone.band/images/drum-head-ogp-1200-630.png">
+
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 ```

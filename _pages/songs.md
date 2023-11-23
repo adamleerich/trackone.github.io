@@ -17,19 +17,22 @@ If you want us to play something let us know on the [contact form](/contact) and
 | Bye Bye Love                         | The Cars             | 1978      |
 | Cold Hard Bitch                      | Jet                  | 2003      |
 | Crazy Train                          | Ozzy Osbourne        | 1980      |
+| Cumbersome                           | Seven Mary Three     | 1994      |
 | Dirty Deeds Done Dirt Cheap          | AC/DC                | 1976      |
 | [Enter Sandman][2]                   | [Metallica][2]       | [1991][2] |
+| Good                                 | Better Than Ezra     | 1995      |
 | Good Times Bad Times                 | Led Zeppelin         | 1969      |
 | Hard To Handle                       | The Black Crowes     | 1990      |
 | Hey Jealousy                         | Gin Blossoms         | 1989      |
 | [I Wanna Be Sedated][6]              | [The Ramones][6]     | [1978][6] |
 | I Will Survive                       | Cake                 | 1996      |
 | Interstate Love Song                 | Stone Temple Pilots  | 1994      |
+| Little Things                        | Bush                 | 1994      |
 | [Living After Midnight][4]           | [Judas Priest][4]    | [1980][4] |
 | Longview                             | Green Day            | 1994      |
 | Machinehead                          | Bush                 | 1994      |
 | [Man in the Box][3]                  | [Alice in Chains][3] | [1991][3] |
-| Man On The Silver Mountain           | Rainbow              | 1975      |
+| Man on the Silver Mountain           | Rainbow              | 1975      |
 | Mary Jane's Last Dance               | Tom Petty            | 1993      |
 | Me and Julio Down by the Schoolyard  | Paul Simon           | 1972      |
 | My Sharona                           | The Knack            | 1979      |
@@ -57,6 +60,8 @@ If you want us to play something let us know on the [contact form](/contact) and
 | TNT                                  | AC/DC                | 1975      |
 | Tush                                 | ZZ Top               | 1975      |
 | Twilight Zone                        | Golden Earring       | 1982      |
+| When I Come Around                   | Green Day            | 1994      |
+| When I'm Gone                        | 3 Doors Down         | 2002      |
 | Zombie                               | The Cranberries      | 1994      |
 
 [1]: /2023/10/27/teen-spirit-jerrys.html "Smells Like Teen Spirit performed by TrackOne"

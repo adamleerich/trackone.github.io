@@ -15,7 +15,6 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date            | Place                         | Where                    | Start Time  |
 |-----------------|-------------------------------|--------------------------|-------------|
-| [12/29/2023][6] | [Four Seasons by the Lake][6] | [Stafford Springs, CT][6]| [7pm][6]    |
 | [1/27/2024][7]  | [Stryker's Cafe][7]           | [Berlin, CT][7]          | [7:30pm][7] |
 | 2/3/2024        | Tavern on 3                   | Rocky Hill, CT           | 8pm         |
 | 2/23/2024       | Jerry's Pizza and Bar         | Middletown, CT           | 7pm         |
@@ -28,6 +27,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date            | Place                         | Where                    | Start Time  |
 |-----------------|-------------------------------|--------------------------|-------------|
+| [12/29/2023][6] | [Four Seasons by the Lake][6] | [Stafford Springs, CT][6]| [7pm][6]    |
 | [11/11/2023][1] | [Tavern on 3][1]              | [Rocky Hill, CT][1]      | [8pm][1]    |
 | [9/22/2023][2]  | [Jerry's Pizza and Bar][2]    | [Middletown, CT][2]      | [7pm][2]    |
 | 8/12/2023       | Carmine's Grill & Stage       | East Hartford, CT        | 8pm         |

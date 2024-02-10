@@ -15,7 +15,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date                | Place                         | Where                    | Start Time  |
 |---------------------|-------------------------------|--------------------------|-------------|
-| Fri 2/23/2024       | Jerry's Pizza and Bar         | Middletown, CT           | 7pm         |
+| [Fri 2/23/2024][9]  | [Jerry's Pizza and Bar][9]    | [Middletown, CT][9]      | [7pm][9]    |
 | Sat 4/13/2024       | Shea's American Grill         | Manchester, CT           | 9pm         |
 | Sat 6/8/2024        | Jerry's Pizza and Bar         | Middletown, CT           | 7pm         |
 
@@ -45,4 +45,4 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 [6]: /2023/11/18/four-seasons-gig.html
 [7]: /2023/11/22/strykers-gig.html
 [8]: /2023/12/30/return-to-t3.html
-
+[9]: /2024/02/09/jerrys-in-feb.html

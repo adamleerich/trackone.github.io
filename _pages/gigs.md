@@ -15,7 +15,6 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date                | Place                         | Where                    | Start Time  |
 |---------------------|-------------------------------|--------------------------|-------------|
-| [Fri 2/23/2024][9]  | [Jerry's Pizza and Bar][9]    | [Middletown, CT][9]      | [7pm][9]    |
 | Sat 4/13/2024       | Shea's American Grill         | Manchester, CT           | 9pm         |
 | Sat 6/8/2024        | Jerry's Pizza and Bar         | Middletown, CT           | 7pm         |
 
@@ -25,6 +24,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date                | Place                         | Where                    | Start Time  |
 |---------------------|-------------------------------|--------------------------|-------------|
+| [Fri 2/23/2024][9]  | [Jerry's Pizza and Bar][9]    | [Middletown, CT][9]      | [7pm][9]    |
 | [Sat 2/3/2024][8]   | [Tavern on 3][8]              | [Rocky Hill, CT][8]      | [8pm][8]    |
 | [Sat 1/27/2024][7]  | [Stryker's Cafe][7]           | [Berlin, CT][7]          | [7:30pm][7] |
 | [Fri 12/29/2023][6] | [Four Seasons by the Lake][6] | [Stafford Springs, CT][6]| [7pm][6]    |

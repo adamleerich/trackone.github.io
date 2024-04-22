@@ -13,9 +13,9 @@ header_settings:
   default_header_image: "/images/drum-head-bw-ar67.png"
 
 banner_settings:
-  message: "Next show April 13!"
-  url: "/2024/03/02/sheas-in-apr.html"
-  # url: /gigs
+  message: "Next show Saturday, June 8!"
+  # url: "/2024/03/02/sheas-in-apr.html"
+  url: /gigs
 
 
 menu_settings:

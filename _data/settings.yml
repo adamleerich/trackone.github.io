@@ -86,8 +86,8 @@ color_settings:
   overlay_text_color: '#ffffff'
 
   text_banner_color: '#000000'
-  banner_background_color: '#FFE900'
-
+  # banner_background_color: '#FFE900'
+  banner_background_color: '#B4ADEA'
 
 
   # Defaults ----------------------------

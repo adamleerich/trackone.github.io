@@ -15,8 +15,8 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date                | Place                         | Where                    | Start Time  |
 |---------------------|-------------------------------|--------------------------|-------------|
-| Sat 6/8/2024        | Jerry's Pizza and Bar         | Middletown, CT           | 7pm         |
-| Sat 8/24/2024       | Shea's American Grill         | Manchester, CT           | 9pm         |
+| [Sat 6/8/2024][11]  | [Jerry's Pizza and Bar][11]   | [Middletown, CT][11]     | [7pm][11]   |
+| [Sat 8/24/2024][12] | [Shea's American Grill][12]   | [Manchester, CT][12]     | [9pm][12]   |
 
 
 
@@ -48,3 +48,5 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 [8]: /2023/12/30/return-to-t3.html
 [9]: /2024/02/09/jerrys-in-feb.html
 [10]: /2024/03/02/sheas-in-apr.html
+[11]: /2024/05/14/jerrys-in-june.html
+[12]: /2024/05/16/sheas-in-aug.html

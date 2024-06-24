@@ -15,7 +15,6 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date                | Place                         | Where                    | Start Time  |
 |---------------------|-------------------------------|--------------------------|-------------|
-| [Sat 6/8/2024][11]  | [Jerry's Pizza and Bar][11]   | [Middletown, CT][11]     | [7pm][11]   |
 | [Sat 8/24/2024][12] | [Shea's American Grill][12]   | [Manchester, CT][12]     | [9pm][12]   |
 
 
@@ -24,6 +23,7 @@ We'll add more gigs here as we schedule them -- [let us know](/contact) where yo
 
 | Date                | Place                         | Where                    | Start Time  |
 |---------------------|-------------------------------|--------------------------|-------------|
+| [Sat 6/8/2024][11]  | [Jerry's Pizza and Bar][11]   | [Middletown, CT][11]     | [7pm][11]   |
 | [Sat 4/13/2024][10] | [Shea's American Grill][10]   | [Manchester, CT][10]     | [9pm][10]   |
 | [Fri 2/23/2024][9]  | [Jerry's Pizza and Bar][9]    | [Middletown, CT][9]      | [7pm][9]    |
 | [Sat 2/3/2024][8]   | [Tavern on 3][8]              | [Rocky Hill, CT][8]      | [8pm][8]    |
